@@ -5,7 +5,7 @@
 
 ## 📌 Links do Projeto
 * 🚀 Link para o Repositório: `[https://github.com/michelsaraht-oss/guia-iniciante-inteligencia-artificial]`
-* 📓 Link para o Gemini Notebook Compartilhado: `[Cole o link de compartilhamento do seu Notebook aqui]`
+* 📓 Link para o Gemini Notebook Compartilhado: `[https://notebook.google.com/notebook/038279d4-a8bf-4f02-81e0-1035e5d7d2ff?authuser=1]`
 
 ## 📚 Fontes Utilizadas e Critérios de Escolha
 *   **Central de Ajuda do NotebookLM / Gemini Notebook:** Documentação oficial sobre gerenciamento de fontes.
