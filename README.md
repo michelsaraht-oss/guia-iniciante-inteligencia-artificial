@@ -4,7 +4,7 @@
 "Criar um segundo cérebro com IA no Gemini Notebook para estudar os fundamentos da Inteligência Artificial, compreender seus principais conceitos, conhecer aplicações práticas e limitações e desenvolver a capacidade de avaliar criticamente as informações, utilizando fontes confiáveis em vídeo e texto."
 
 ## 📌 Links do Projeto
-* 🚀 Link para o Repositório: `[Cole o link do seu GitHub aqui]`
+* 🚀 Link para o Repositório: `[https://github.com/michelsaraht-oss/guia-iniciante-inteligencia-artificial]`
 * 📓 Link para o Gemini Notebook Compartilhado: `[Cole o link de compartilhamento do seu Notebook aqui]`
 
 ## 📚 Fontes Utilizadas e Critérios de Escolha
